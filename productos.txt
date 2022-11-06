@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Cartuchera",
+    "price": 123,
+    "thumbnail": "http://www.google.com.ar",
+    "id": 1
+  },
+  {
+    "title": "Goma",
+    "price": 123,
+    "thumbnail": "http://www.google.com.ar",
+    "id": 2
+  },
+  {
+    "title": "Lapiz",
+    "price": 123,
+    "thumbnail": "http://www.google.com.ar",
+    "id": 3
+  }
+]
